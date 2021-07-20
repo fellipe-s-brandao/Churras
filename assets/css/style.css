@@ -4,7 +4,6 @@
   margin: 0 auto;
   padding: 0;
   font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 600;
 }
 
 h1{
@@ -62,4 +61,10 @@ button{
 button:hover{
   text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
   box-shadow: 2px 2px 2px 2px #e67e22;
+}
+
+#resultado{
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  
 }
